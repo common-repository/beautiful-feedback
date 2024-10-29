@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beautiful Feedback Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-17 12:07+0300\n"
+"PO-Revision-Date: 2011-05-17 12:09+0300\n"
+"Last-Translator: Kostin Aleksey <ostin654@gmail.com>\n"
+"Language-Team: Aleksey Kostin <ostin654@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: d:\\Denwer\\home\\wp\\www\\wp-content\\plugins\\beautiful-feedback\n"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:67
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:181
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:17
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:71
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:185
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:21
+msgid "Your email"
+msgstr "Ваш E-mail"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:75
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:189
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:25
+msgid "Your phone number"
+msgstr "Ваш номер телефона"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:79
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:193
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:29
+msgid "Message"
+msgstr "Сообщение"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:86
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:200
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:35
+msgid "Send"
+msgstr "Отправить"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:92
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:214
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:50
+msgid "<p>Thank you! Your message was send successfully!</p><p>We'll contact you as soon as possible.</p><p align=\"right\">- Administration</p>"
+msgstr "<p>Спасибо! Ваше сообщение отправлено!</p><p>Мы свяжемся с вами в ближайшее время.</p><p align=\"right\">- Администрация</p>"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:127
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:131
+msgid "Secret code"
+msgstr "Секретный код"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:133
+msgid "Please, enter valid secret code"
+msgstr "Пожалуйста, введите секретный код"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:176
+msgid "Changes saved"
+msgstr "Изменения сохранены"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:222
+msgid "Feedback settings"
+msgstr "Настройки обратной связи"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:226
+msgid "Name field label"
+msgstr "Надпись поля имени"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:230
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:238
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:246
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:254
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:259
+msgid "Required"
+msgstr "Обязательно для заполнения"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:234
+msgid "E-mail field label"
+msgstr "Надпись поля E-mail"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:242
+msgid "Phone field label"
+msgstr "Надпись поля телефон"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:250
+msgid "Message field label"
+msgstr "Надпись поля сообщение"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:258
+msgid "CAPTCHA"
+msgstr "Капча"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:261
+msgid "Turn on spam protection."
+msgstr "Вы можете включить защиту от спама"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:265
+msgid "Left side"
+msgstr "Слева"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:266
+msgid "Yes"
+msgstr "Да"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:268
+msgid "Show the form on the left side of the window."
+msgstr "Показывать форму слева"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:272
+msgid "Top position"
+msgstr "Отступ сверху"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:275
+msgid "Top position of the form in pixels."
+msgstr "Расстояние от верхнего края документа в пикселах"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:279
+msgid "Send button label"
+msgstr "Надпись кнопки отправить"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:282
+msgid "Text on the send button."
+msgstr "Текст на кнопке отправки."
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:286
+msgid "Sender E-mail"
+msgstr "E-mail отправителя"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:289
+msgid "Enter sender E-mail address of feedback message. if empty, address from form or «Mail to» address will be used."
+msgstr "Введите адрес отправителя сообщения. Если оставить пустым, будет использоваться введенное в форме значение или значение поля «Адрес получателя»"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:293
+msgid "Sender name"
+msgstr "Имя отправителя"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:296
+msgid "Enter sender name of feedback message. if empty, name from form will be used."
+msgstr "Введите имя отправителя письма. Если оставить пустым, то будет использоваться значение, введенное в форму."
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:300
+msgid "Recipient E-mail"
+msgstr "Адрес получателя"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:303
+msgid "Enter recipient E-mail address of feedback message. Seperate multiple addresses with comma."
+msgstr "Введите адрес получателя письма. Разделите несколько адресов запятыми."
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:307
+msgid "Success text"
+msgstr "Сообщение об успешной отправке"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:312
+msgid "Enter success message. Displays when message is sent. You can use HTML tags."
+msgstr "Введите сообщение об успешной отправке. Отображается, когда сообщение отправлено. Вы можете использовать HTML теги."
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:316
+msgid "Letter encoding"
+msgstr "Кодировка письма"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:319
+msgid "Letter <a href=\"http://codex.wordpress.org/Glossary#Character_set\">encoding</a> (UTF-8 NOT RECOMMENDED, <a href=\"http://en.wikipedia.org/wiki/Character_set\">use other</a>)"
+msgstr "<a href=\"http://codex.wordpress.org/Glossary#Character_set\">Кодировка</a> письма (UTF-8 НЕ РЕКОМЕНДУЕТСЯ, <a href=\"http://en.wikipedia.org/wiki/Character_set\">попробуйте использовать другие</a>)"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:323
+msgid "Save"
+msgstr "Сохранить"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback.php:331
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:79
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:58
+msgid "Please, enter"
+msgstr "Пожалуйста, укажите!"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:65
+msgid "E-mail address is invalid!"
+msgstr "Адрес E-mail неверный!"
+
+#: d:\Denwer\home\wp\www\wp-content\plugins\beautiful-feedback/feedback_post.php:67
+msgid "Secret code is invalid!"
+msgstr "Неверный секретный код!"
+
